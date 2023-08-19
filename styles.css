@@ -9,9 +9,10 @@ div{
 /*   padding:.5rem; */
   border:1px solid black;
   background:white;
-  margin:1rem;
+padding:2rem;
   
 }
 p{
   text-align:right;
+	font-style:italic;
 }
